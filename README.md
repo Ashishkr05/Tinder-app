@@ -41,7 +41,7 @@ The backend API is fully documented and publicly testable via Swagger and ngrok.
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https://github.com/ashishkr05/php-tinder-app.git
+git clone https://github.com/Ashishkr05/Tinder-app.git
 cd php-tinder-app/backend
 ```
 
@@ -244,6 +244,7 @@ https://github.com/user-attachments/assets/ec400f2e-4296-420b-866d-c0739d39cfd0
 **Ashish Kumar**
 
 ---
+
 
 
 
