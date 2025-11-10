@@ -124,7 +124,7 @@ php artisan l5-swagger:generate
 👉 Open
 
 ```
-https://your-ngrok-id.ngrok-free.app/api/documentation
+https://acfefecd05a7.ngrok-free.app/api/documentation
 ```
 
 ---
@@ -244,6 +244,7 @@ https://github.com/user-attachments/assets/ec400f2e-4296-420b-866d-c0739d39cfd0
 **Ashish Kumar**
 
 ---
+
 
 
 
