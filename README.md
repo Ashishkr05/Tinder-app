@@ -210,7 +210,8 @@ Login → Swipe → Like → See liked list in action ✨
 ## 🎥 Demo Videos
 
 🎬 **Frontend (React Native UI & Swiping):**
-👉 [[Demo Video 1 – Swipe UI + Liked List](https://your-demo-video-link-1.com)](https://github.com/user-attachments/assets/f4f99362-c1bc-4c26-b223-222366ad3155)
+👉 [[Demo Video 1 – Swipe UI + Liked List]
+https://github.com/user-attachments/assets/f4f99362-c1bc-4c26-b223-222366ad3155
 
 🎬 **Backend (Swagger API Testing):**
 👉 [Demo Video 2 – API Testing via Swagger + ngrok](https://your-demo-video-link-2.com)
@@ -235,5 +236,6 @@ Login → Swipe → Like → See liked list in action ✨
 **Ashish Kumar**
 
 ---
+
 
 
