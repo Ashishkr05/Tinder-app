@@ -1,6 +1,4 @@
 
-https://github.com/user-attachments/assets/05fc9520-addf-4e11-8dde-68ba5338bb5e
-
 # ❤️ PHP Tinder App — Swipe, Like, and Match Experience
 
 A full-stack Tinder-style application built with **React Native (frontend)** and **Laravel (backend)**.
@@ -211,8 +209,8 @@ Login → Swipe → Like → See liked list in action ✨
 
 ## 🎥 Demo Videos
 
-🎬 **Frontend (React Native UI & Swiping):**
-👉 [[Demo Video 1 – Swipe UI + Liked List]
+🎬 **Tinder Fullstack App — React Native UI + Laravel Backend Integration:**
+👉 
 
 
 https://github.com/user-attachments/assets/74ea64ba-39d1-407b-a0a1-461ae562bc56
@@ -242,6 +240,7 @@ https://github.com/user-attachments/assets/74ea64ba-39d1-407b-a0a1-461ae562bc56
 **Ashish Kumar**
 
 ---
+
 
 
 
